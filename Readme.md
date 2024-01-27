@@ -12,10 +12,10 @@
 
 # join us   
 
-https://juicebox.money/v2/p/626?tabid=updates
+[https://juicebox.money/v2/p/626?tabid=updates](https://juicebox.money/v2/p/626?tabid=updates)
 
 # discuss
 
-https://discord.gg/s4BPZrMPpG
+[https://discord.gg/s4BPZrMPpG](https://discord.gg/s4BPZrMPpG)
 
 
