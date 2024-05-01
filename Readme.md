@@ -1,3 +1,7 @@
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8936138113431331"
+     crossorigin="anonymous"></script>
+</head>
 ![Designer (1)](https://github.com/Osub/web3/assets/7599190/87f7a06a-ed6e-43e4-b204-b553748fdbbb)
 
 🔗 Visual smart contract operations and queries without needing to write code, simply drag and drop components to accomplish.
