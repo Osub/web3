@@ -1,3 +1,8 @@
+# chatgpt免费
+
+- [免费openai、openai AI api代理,免费的key,不需要key就可以免费用chatgpt](https://linkwithgpt.3any.ai)
+
+
 # PDF 工具大全
 [PDF 工具大全](https://pdf.3any.ai/)
 
