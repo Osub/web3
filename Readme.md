@@ -237,9 +237,9 @@ Add text or add image stamps at set locations
 
 ![image](https://github.com/Osub/web3/assets/7599190/9fd702ec-03e0-46a2-81cf-267e41b7ae81)
 
-# join us   
+# chat tts webui
 
-[https://juicebox.money/v2/p/626?tabid=updates](https://juicebox.money/v2/p/626?tabid=updates)
+[chattts webui 免费在线体验](https://tts.3any.ai/)
 
 # discuss
 
